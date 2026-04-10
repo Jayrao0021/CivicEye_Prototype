@@ -1,4 +1,4 @@
-Do not commit .env or server/uploads. Use .env.example to configure environment variables.
+Notes: Do not commit .env or server/uploads. Use .env.example to configure environment variables.
 # CivicEye
 
 Crowdsourced civic issue reporting app.
