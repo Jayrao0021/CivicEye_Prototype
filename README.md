@@ -44,3 +44,4 @@ Frontend:
 
 - Complaint media upload (photo/video) is stored in `server/uploads/` for local dev.
 - For real deployments, don’t store uploads on the server filesystem; use an object store (S3/Cloudinary/Supabase Storage).
+- Do not commit .env or server/uploads. Use .env.example to configure environment variables.
